@@ -19,8 +19,6 @@ I'm a **Data & Software Engineer** 💻 based in the US.
 
 When I'm not coding, you'll find me building pinball machines 🎰, diving into video games 🎮, tinkering with hardware and automation projects 🔧, traveling ✈️, or listening to the latest Dungeon Crawler Carl audiobook 🎧.
 
-Feel free to connect with me on LinkedIn!
-
 ---
 
 ## 🛠️ Tech Stack
