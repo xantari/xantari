@@ -45,9 +45,6 @@ When I'm not coding, you'll find me building pinball machines 🎰, diving into 
 
 **Cloud & CMS**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Azure Cognitive Search](https://img.shields.io/badge/Azure%20Cognitive%20Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Kentico Kontent](https://img.shields.io/badge/Kentico%20Kontent-F05A22?style=flat)
 
 **Tools**  
