@@ -1,18 +1,3 @@
-<!--
-**xantari/xantari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hey 👋, I'm Matt!
 
 I'm a **Data & Software Engineer** 💻 based in the US.
@@ -38,7 +23,12 @@ When I'm not coding, you'll find me building pinball machines 🎰, diving into 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **Data & Analytics**  
-Statistical Modeling · Machine Learning · Bootstrapping · Linear Regression · Permutation Tests · Web Scraping · Power BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-3776AB?style=flat)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-3A86FF?style=flat)
+![Bootstrapping](https://img.shields.io/badge/Bootstrapping-6A0DAD?style=flat)
+![Permutation Tests](https://img.shields.io/badge/Permutation%20Tests-E63946?style=flat)
 
 **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -46,7 +36,19 @@ Statistical Modeling · Machine Learning · Bootstrapping · Linear Regression �
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **APIs & Automation**  
-REST API Design · API Integration · DDC/CI · Hardware Automation
+![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=flat&logo=swagger&logoColor=black)
+![API Integration](https://img.shields.io/badge/API%20Integration-FF6C37?style=flat&logo=postman&logoColor=white)
+![Hardware Automation](https://img.shields.io/badge/Hardware%20Automation-607D8B?style=flat)
+![DevOps Pipelines](https://img.shields.io/badge/DevOps%20Pipelines-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90D9?style=flat&logo=githubactions&logoColor=white)
+
+**Cloud & CMS**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Azure Cognitive Search](https://img.shields.io/badge/Azure%20Cognitive%20Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kentico Kontent](https://img.shields.io/badge/Kentico%20Kontent-F05A22?style=flat)
 
 **Tools**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
