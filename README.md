@@ -24,7 +24,6 @@ When I'm not coding, you'll find me building pinball machines 🎰, diving into 
 
 **Data & Analytics**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-3776AB?style=flat)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-3A86FF?style=flat)
 ![Bootstrapping](https://img.shields.io/badge/Bootstrapping-6A0DAD?style=flat)
