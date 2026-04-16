@@ -54,7 +54,7 @@ I'm always happy to team up on:
 - **API Design** — Crafting clean, scalable, well-documented REST APIs
 - **.NET Development** — C# applications, libraries, and backend services
 - **API Interfacing** — Integrating third-party APIs and building robust client wrappers
-- **Data Engineering** — Pipelines, automation, analytics, and statistical modeling
+- **Data Engineering** — Pipelines, automation, analytics
 
 ---
 
@@ -70,3 +70,5 @@ I'm always happy to team up on:
 - [**PinCab.Configurator**](https://github.com/xantari/PinCab.Configurator) — Game and system manager for virtual pinball cabinet and desktop users; centralizes screen configuration across all virtual pinball programs
 - [**Seq.App.Azure.DevOps**](https://github.com/xantari/Seq.App.Azure.DevOps) — Seq app that creates Tasks and Bugs in Azure DevOps (TFS/VSTS) directly from Seq log events
 - [**Kentico.Search.Api**](https://github.com/xantari/Kentico.Search.Api) — Web API integrating Kentico Kontent with Azure Cognitive Search and Azure Blob Storage for full-site search
+- [**Ipdb.Database**](https://github.com/xantari/Ipdb.Database) — Offline IPDB pinball database in JSON format, auto-refreshed monthly, with a C# NuGet model library for easy integration
+- [**RecaptchaV2.NET**](https://github.com/xantari/RecaptchaV2.NET) — Google reCAPTCHA v2 implementation for .NET (WebForms & MVC), including secure token support
