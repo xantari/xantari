@@ -22,13 +22,6 @@ When I'm not coding, you'll find me building pinball machines 🎰, diving into 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Data & Analytics**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-3776AB?style=flat)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-3A86FF?style=flat)
-![Bootstrapping](https://img.shields.io/badge/Bootstrapping-6A0DAD?style=flat)
-![Permutation Tests](https://img.shields.io/badge/Permutation%20Tests-E63946?style=flat)
-
 **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
